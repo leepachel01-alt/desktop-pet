@@ -1,0 +1,4 @@
+interface:
+  display_name: "桌面宠物"
+  short_description: "用实拍素材制作桌面宠物，支持触控、拖拽和跨平台本地安装包"
+  default_prompt: "使用 $desktop-pet，基于我提供的素材制作一个可离线安装和互动的桌面宠物。"
