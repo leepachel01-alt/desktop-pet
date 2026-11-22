@@ -2,6 +2,12 @@
 
 桌面宠物是一个 Codex 技能，用于将你提供的实拍照片、视频或现有离线动画制作成可交互的桌面宠物。它以大巴的制作过程为例，覆盖实拍选帧、透明窗口、拖动、散步、光圈互动、叫声和离线打包。
 
+## 大巴桌面演示
+
+[![大巴在桌面上打开白色互动光圈](demo/daba-desktop-demo-cover.jpg)](demo/daba-desktop-demo.mp4?raw=1)
+
+[观看或下载演示视频（MP4，约 36 秒）](demo/daba-desktop-demo.mp4?raw=1)
+
 ## 在 Codex 中使用
 
 将仓库放到 Codex 的技能目录下，文件夹命名为 `desktop-pet`，让 `SKILL.md` 直接位于该文件夹内。随后在 Codex 中输入 `$desktop-pet`，说明要使用的素材、目标平台和想要的互动。
